@@ -27,8 +27,7 @@ So they need low quanta but high priority to respond immediately on the users re
 
 We know that - ∑Ci/Pi ≤ 1 - so we can calculate the highest value of $x$
 
-35/50 + 20/100 + 10/200 + $x$/250 ≤ 1  
-0,7 + 0,2 + 0,05 + $x$/250 ≤ 1  
+35/50 + 20/100 + 10/200 + $x$/250 ≤ 1   
 0,95 + $x$/250 ≤ 1  
 $x$ ≤ 12,5
 
