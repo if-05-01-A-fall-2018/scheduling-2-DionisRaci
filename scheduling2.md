@@ -27,8 +27,8 @@ So they need low quanta but high priority to respond immediately on the users re
 
 We know that - ∑Ci/Pi ≤ 1 - so we can calculate the highest value of $x$
 
-35/50 + 20/100 + 10/200 + $x$/250 ≤ 1   
-0,95 + $x$/250 ≤ 1  
-$x$ ≤ 12,5
+35/50 + 20/100 + 10/200 + x/250 ≤ 1   
+0,95 + x/250 ≤ 1  
+x ≤ 12,5
 
-The highest value $x$ can be is 12,5.
+The highest value x can be is 12,5.
