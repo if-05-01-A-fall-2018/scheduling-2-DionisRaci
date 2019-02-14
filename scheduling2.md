@@ -22,3 +22,17 @@ So they needs high quanta but low priority.
 
 I/O bound processes are dependant on the user input.
 So they need low quanta but high priority to respond immediately on the users reaction.
+
+## 4
+
+We know that - ∑ Ci/Pi ≤ 1 - so we can calculate the highest value of $x$
+
+35/50 + 20/100 + 10/200 + $x$/250 ≤ 1
+
+0,7 + 0,2 + 0,05 + $x$/250 ≤ 1
+
+0,95 + $x$/250 ≤ 1
+
+$x$ ≤ 12,5
+
+The largest value of $x$ is 12,5.
